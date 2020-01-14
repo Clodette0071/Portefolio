@@ -1,2 +1,2 @@
-Fandango est un site américain de classement de films. En 2015, il y a eu une polémique (https://fivethirtyeight.com/features/fandango-movies-ratings/) sur l'algorithme de classement de film de ce site. 
-Cette présentation a pour objectif d'évaluer si cet algo a été amélioré après la parution de l'article polémique. J'analyse les données de 2016 à 2017 (c'est à dire sur les 2 années après la parution de l'article).
+Fandango est un site américain de classement de films. En 2015, un article mettant en cause la fiabilité de l'algorithme de classement de film de ce site a été publié sur le site fivethirtyeight.com (https://fivethirtyeight.com/features/fandango-movies-ratings/). 
+Ce mini-projet a pour objectif d'évaluer si l'algorithme en question a été amélioré après la parution de l'article polémique. J'analyse les données de 2016 à 2017 (c'est à dire sur les 2 années après la parution de l'article).
