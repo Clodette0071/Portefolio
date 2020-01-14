@@ -1,2 +1,1 @@
-# Portfolio
-Contient mes travaux en Data Science
+Ce répertoire contient mes travaux en Data Science
